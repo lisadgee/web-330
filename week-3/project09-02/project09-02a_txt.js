@@ -4,8 +4,9 @@
       Project 09-02
 
       Project to read field values from web storage
-      Author: 
-      Date:   
+      Author: Lisa Gee
+      Date: 6/15/24 
+   
 
       Filename: project09-02a.js
 */
